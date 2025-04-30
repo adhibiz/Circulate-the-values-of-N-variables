@@ -19,17 +19,17 @@ Print both the values it would be interchanged
 End the program
 ## Program:
 ```
-# Developed by:Yathin Reddy T
-# Register no:212223100062
-def circulate():
-    b=a[n:]+a[:n]
-    print("After circulating the values are:",b)
-a=eval(input())
-n=int(input())
+# Developed by: Aathi sakthi s
+# Register No: 212223223001
+import math
+x1, y1 = 4, 2
+x2, y2 = 10, 6
+d1 = math.sqrt((x2 - x1)**2 + (y2 - y1)**2)
+print(format(d1,"0.2f"))
 ```
 ## Output:
 
-![image](https://github.com/user-attachments/assets/6585d6eb-2c94-4269-8652-cd88d894b22f)
+![image](https://github.com/user-attachments/assets/2dd1751b-ee87-403a-a547-bf82a5c8b514)
 
 ## Result:
 the output for circulate the values of n variables is successful.
