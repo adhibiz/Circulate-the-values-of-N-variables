@@ -28,6 +28,7 @@ a=eval(input())
 n=int(input())
 ```
 ## Output:
+
 ![image](https://github.com/user-attachments/assets/6585d6eb-2c94-4269-8652-cd88d894b22f)
 
 ## Result:
